@@ -19,6 +19,8 @@ Focus areas:
 - Infrastructure automation
 - Secure developer environments
 - Self-hosted developer tools
+
+## More about me 
   
 - 👯 I’m open to collaborating on: open-source tools for developers or security
 - 🤔 I’m looking for help with: improving DevOps pipelines and infrastructure design
