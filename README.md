@@ -20,7 +20,7 @@ Focus areas:
 - Secure developer environments
 - Self-hosted developer tools
 
-# Dev Lab 🧪
+## Dev Lab 🧪
 
 A small sandbox for experimenting with developer systems.
 
