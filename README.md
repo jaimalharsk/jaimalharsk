@@ -14,6 +14,8 @@ I'm Malhar — a student builder exploring systems, automation, and decentralize
 
 ## Current Focus
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimalharsk&show_icons=true)
+
 - DevOps automation experiments  
 - Self-hosted / local AI setups  
 - Open-source exploration  
