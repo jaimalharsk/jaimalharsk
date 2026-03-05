@@ -20,6 +20,21 @@ Focus areas:
 - Secure developer environments
 - Self-hosted developer tools
 
+# Dev Lab 🧪
+
+A small sandbox for experimenting with developer systems.
+
+Focus areas:
+- infrastructure automation
+- local AI tools
+- security experiments
+
+Structure:
+
+experiments/ → prototypes  
+scripts/ → small utilities  
+notes/ → architecture ideas
+
 ## More about me 
   
 - 👯 I’m open to collaborating on: open-source tools for developers or security
