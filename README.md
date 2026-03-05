@@ -13,7 +13,13 @@ Focus areas:
 - DevOps automation
 - secure local environments
   
-- 🌱 I’m currently learning: DevOps fundamentals, Linux systems, and ML tooling
+## 🔬 Systems I'm Exploring
+
+- Local AI assistants
+- Infrastructure automation
+- Secure developer environments
+- Self-hosted developer tools
+  
 - 👯 I’m open to collaborating on: open-source tools for developers or security
 - 🤔 I’m looking for help with: improving DevOps pipelines and infrastructure design
 - 💬 Ask me about: learning DevOps, self-hosted tools, or experimenting with local AI systems
