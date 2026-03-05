@@ -2,7 +2,17 @@
 
 I'm Malhar — a student builder exploring systems, automation, and decentralized tools.
 
-- 🔭 I’m currently working on: small infrastructure and automation experiments
+## 🚧 Flagship Project
+
+**Local AI Infrastructure Experiments**
+
+Building small systems that allow AI tools to run locally without relying on cloud services.
+
+Focus areas:
+- self-hosted AI tools
+- DevOps automation
+- secure local environments
+  
 - 🌱 I’m currently learning: DevOps fundamentals, Linux systems, and ML tooling
 - 👯 I’m open to collaborating on: open-source tools for developers or security
 - 🤔 I’m looking for help with: improving DevOps pipelines and infrastructure design
