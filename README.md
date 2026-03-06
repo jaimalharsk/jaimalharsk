@@ -47,7 +47,7 @@ notes/ → architecture ideas
 
 ## Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimalharsk&show_icons=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaimalharsk&show_icons=true&theme=radical)
 
 - DevOps automation experiments  
 - Self-hosted / local AI setups  
